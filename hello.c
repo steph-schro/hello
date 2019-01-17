@@ -1,6 +1,6 @@
 /**
- * Author: Chris Bourke
- * Date: 2016/11/02
+ * Author: Stephanie Schroeder
+ * Date: 2019/1/17
  *
  * A simple hello world program in C
  *
@@ -10,7 +10,8 @@
 
 int main(int argc, char **argv) {
 
-  printf("Hello World!\n");
+  printf("Stephanie Schroeder");
+  printf("Criminology and Criminal Justice");
 
   return 0;
 }
